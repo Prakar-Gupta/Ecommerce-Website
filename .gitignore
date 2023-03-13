@@ -1,6 +1,3 @@
-#config folder
-#/config -> default.json
-/config
 
 /node_modules
 package-lock.json
